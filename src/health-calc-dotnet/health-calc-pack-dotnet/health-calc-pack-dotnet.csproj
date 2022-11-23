@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>health_calc_pack_dotnet</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Title>Health Calc</Title>
+    <Description>Biblioteca para Cálculos de Saúde (IMC e Macronutrientes)</Description>
+    <RepositoryUrl>https://github.com/FredGabriel27/health-calc-pack-dotnet</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageId>health-calc-pack-dotnet-frederico</PackageId>
+  </PropertyGroup>
+
+</Project>
