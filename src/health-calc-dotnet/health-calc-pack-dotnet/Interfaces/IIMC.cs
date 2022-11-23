@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace health_calc_pack_dotnet.Interfaces
 {
-    internal interface IIMC
+    public interface IIMC
     {
         double Calc(double Height, double Weight);
 
